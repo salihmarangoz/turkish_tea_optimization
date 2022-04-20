@@ -1,6 +1,6 @@
 # turkish_tea_optimization
 
-My journey to find the best way for brewing tea. Still implementing.
+My journey to find the best way for brewing tea. Still implementing. I just need to continue brewing tea instead of making coffee to develop this further.
 
 ```bash
 $ pip3 install optuna notebook
